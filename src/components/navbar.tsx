@@ -61,9 +61,11 @@ export default function Navbar() {
         <div className="flex h-16 items-center justify-between lg:h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center gap-2">
-            <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-electric">
-              <span className="text-sm font-bold text-white">D</span>
-            </div>
+            <img 
+              src="/logo.png" 
+              alt="Digital Evin" 
+              className="h-8 w-auto"
+            />
             <span className="text-lg font-semibold tracking-tight">
               Digital<span className="text-electric">evin</span>
             </span>

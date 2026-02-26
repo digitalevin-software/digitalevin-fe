@@ -18,8 +18,8 @@ export const metadata: Metadata = {
     "UI/UX design and fast web development for brands that want to grow. We build premium, conversion-focused websites.",
   keywords: ["web design", "UI/UX", "web development", "e-commerce", "agency", "Digitalevin"],
   icons: {
-    icon: "/favicon.svg",
-    apple: "/apple-icon.svg",
+    icon: "/logo.png",
+    apple: "/logo.png",
   },
 };
 

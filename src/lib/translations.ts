@@ -474,6 +474,10 @@ export const translations = {
           sector: "Technology & Services",
           description: "Cutting-edge technology company website with modern design, showcasing innovative solutions and services.",
         },
+        menuoner: {
+          sector: "Restaurant & Dining",
+          description: "Modern restaurant website with online menu, reservation system, and elegant design for exceptional dining experience.",
+        },
       },
     },
     // Project Detail
@@ -962,6 +966,10 @@ export const translations = {
         alparslan: {
           sector: "Teknoloji & Hizmetler",
           description: "Modern tasarımla yenilikçi çözümleri ve hizmetleri sergileyen son teknoloji şirket web sitesi.",
+        },
+        menuoner: {
+          sector: "Restoran & Yemek",
+          description: "Online menü, rezervasyon sistemi ve olağanüstü yemek deneyimi için şık tasarıma sahip modern restoran web sitesi.",
         },
       },
     },

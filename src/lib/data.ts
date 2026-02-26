@@ -44,6 +44,17 @@ export const projects: Project[] = [
     color: "#2563eb",
     externalUrl: "https://alparslantekno.com/",
   },
+  {
+    id: "menuoner",
+    title: "Menuoner",
+    category: "Corporate",
+    sector: "menuoner",
+    result: "liveWebsite",
+    description: "menuoner",
+    image: "/projects/menuoner.png",
+    color: "#dc2626",
+    externalUrl: "https://menuoner.digitalevin.com/",
+  },
 ];
 
 export const categories = ["All", "Corporate"];
